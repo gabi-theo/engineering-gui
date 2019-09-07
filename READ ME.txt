@@ -1,0 +1,6 @@
+To open the GUI just run "interfata_ssm" script, enter the values of your piece and the results will appear in a second :)
+
+
+
+---------------------------
+For using this app you will need pillow and tkinter modules
